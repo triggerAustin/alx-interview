@@ -38,5 +38,4 @@ def island_perimeter(grid):
             )
 
             total_perimeter += sum(open_edges)
-
     return total_perimeter
